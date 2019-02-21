@@ -1,0 +1,38 @@
+body {
+  background-color: lightcyan
+}
+
+h1 {
+    font-family: 'Barrio'; font-size: 72px;
+    color: tan
+}
+
+h3 {
+    font-family: 'Barrio'; font-size: 64px;
+    color: tan
+}
+
+p {
+    font-family: 'Merriweather'; font-size: 18px;
+    color: darkslateblue
+}
+
+.topnav {
+  background-color: tan;
+}
+
+.topnav a {
+  color: darkblue;
+  text-align: center;
+  font-family: 'Merriweather';
+  padding: 14px 16px;
+  font-size: 32px;
+}
+
+.topnav a:hover {
+  color: white;
+}
+
+.topnav a.active {
+  color: olive;
+}
