@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+}
+
+
+.title{
+    color: darkorange;
+    font-family: fantasy;
+}
+
+nav{
+    font-family: sans-serif;
+}
+
+.active{
+    color: black; 
+}
+.topnav{
+    background-color: darkorange;
+    padding: 5px;
+}
+
+.topnav a:hover {
+  color: azure;
+}
+
+
+.gallery {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto);
+}
+
+.item img{
+    
+        width: auto;
+    
+}
